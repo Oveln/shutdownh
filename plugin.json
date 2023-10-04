@@ -1,0 +1,11 @@
+{
+	"logo": "logo.jpg",
+	"preload": "preload.js",
+	"features": [
+		{
+		  "code": "shutdownh",
+		  "explain": "休眠",
+			"cmds":["休眠"]
+		}
+	]
+}
